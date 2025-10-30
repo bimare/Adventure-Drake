@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e5a020a8d9d3a543903a370ee87ea4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  - attackMelle: {fileID: 8300000, guid: 7844063126804fd4d974ad52fd001526, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
